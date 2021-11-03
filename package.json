@@ -4,7 +4,7 @@
   "description": "A study about Discord Bots development",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
