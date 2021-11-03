@@ -1,0 +1,30 @@
+{
+  "name": "tutobotjs",
+  "version": "0.0.1",
+  "description": "A study about Discord Bots development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGabrielDeSouza/tutobotjs.git"
+  },
+  "keywords": [
+    "Discord",
+    "bot"
+  ],
+  "author": "Gabriel de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevGabrielDeSouza/tutobotjs/issues"
+  },
+  "homepage": "https://github.com/DevGabrielDeSouza/tutobotjs#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
